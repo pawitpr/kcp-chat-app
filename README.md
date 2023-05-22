@@ -5,6 +5,8 @@ This is a simple chat app use kcp protocol and kcp is a  KCP is a fast and relia
 
 https://github.com/pawitpr/kcp-chat-app/assets/123424956/f52e2b0d-9d6e-4346-9c69-753fba775fb3
 
+https://github.com/pawitpr/kcp-chat-app/assets/123424956/f2eb1137-97fd-4318-a72c-fa014519a1ac
+
 
 
 
