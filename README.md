@@ -2,7 +2,7 @@
 This is a simple chat app use kcp protocol and kcp is a  KCP is a fast and reliable ARQ (Automatic Repeat-reQuest) protocol that uses a different automatic retransmission policy than TCP and has a lower network latency than TCP. In practice, KCP over UDP is often used instead of TCP for online games and audio/video transmission.
 # Demo video
 
-![](https://github.com/pawitpr/kcp-chat-app/assets/123424956/6366c574-591e-472e-aa2c-d6a0fbaf8a8e)
+https://github.com/pawitpr/kcp-chat-app/assets/123424956/6366c574-591e-472e-aa2c-d6a0fbaf8a8e
 
 
 # Installation
