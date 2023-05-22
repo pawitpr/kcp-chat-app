@@ -1,4 +1,5 @@
-# Simple Chat App
+# Simple P2P Chat app ;
+
 This is a simple chat app use kcp protocol and kcp is a  KCP is a fast and reliable ARQ (Automatic Repeat-reQuest) protocol that uses a different automatic retransmission policy than TCP and has a lower network latency than TCP. In practice, KCP over UDP is often used instead of TCP for online games and audio/video transmission.
 # Demo video
 
